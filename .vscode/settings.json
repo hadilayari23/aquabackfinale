@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/5c1416dc-9c7d-4d51-afd8-54a3c261c237/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/aquaback",
+    "appService.deploySubpath": "."
+}

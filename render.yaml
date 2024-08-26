@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: my-nestjs-service
+    env: node
+    buildCommand: ./setup.sh && npm install
+    startCommand: npm start
